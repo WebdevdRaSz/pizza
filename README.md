@@ -1,2 +1,0 @@
-# Pizza
-HTML GitHub demo
