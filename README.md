@@ -1,2 +1,2 @@
-# pizza
+# Pizza
 HTML GitHub demo
